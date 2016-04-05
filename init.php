@@ -55,4 +55,3 @@ if( '1' == $framework_options['testimonials_post_type'] ){
 		add_action( 'init', 'create_testimonial_taxonomies');
 }
 
-
